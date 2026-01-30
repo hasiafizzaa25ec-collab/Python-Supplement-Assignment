@@ -1,6 +1,5 @@
 # Problem 14: Check if a number is prime
 # Find and fix the error
-
 def is_prime(n):
     if n < 2:
         return False
