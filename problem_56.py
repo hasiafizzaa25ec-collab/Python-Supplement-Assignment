@@ -10,4 +10,5 @@ def remove_vowels(text):
     return result
 
 sentence = "Hello World"
-print(f"Without vowels: {remove_vowels(sentence)}")
+print("Without vowels:", remove_vowels(sentence))
+

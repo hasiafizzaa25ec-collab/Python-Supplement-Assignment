@@ -1,6 +1,5 @@
 # Problem 72: Count uppercase and lowercase letters
 # Find and fix the error
-
 def count_case(text):
     upper = 0
     lower = 0
@@ -14,3 +13,4 @@ def count_case(text):
 sentence = "Hello World"
 u, l = count_case(sentence)
 print(f"Uppercase: {u}, Lowercase: {l}")
+
